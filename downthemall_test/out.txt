@@ -1,0 +1,711 @@
+"id":"71149","name":"University Of Utah","address":"675 Arapeen Dr","city":"Salt Lake City","state":"UT","zip":"84108    ","phone":"(801) 587-8600","lat":"40.754897","lng":"-111.8255","highlight":"0","published":"1","dist":8.05235813814
+id":"16530","name":"DANS DRUG #8","address":"1360 S FOOTHILL DR","city":"SALT LAKE CITY","state":"UT","zip":"84108","phone":"","lat":"40.7312940","lng":"-111.8188600","highlight":"0","published":"1","dist":8.96865137424
+id":"16477","name":"UNIVERSITY PHARMACY","address":"1320 E 200 SOUTH","city":"SALT LAKE CITY","state":"UT","zip":"84102","phone":"","lat":"40.7646570","lng":"-111.8529040","highlight":"0","published":"1","dist":9.92985460343
+id":"16496","name":"JOLLEYS CORNER PHARMACY","address":"1676 E 1300 SOUTH","city":"SALT LAKE CITY","state":"UT","zip":"84105","phone":"","lat":"40.7416290","lng":"-111.8427239","highlight":"0","published":"1","dist":9.99843324952
+id":"16515","name":"REAMS PHARMACY","address":"2783 S STATE","city":"SALT LAKE CITY","state":"UT","zip":"84110","phone":"","lat":"40.7735550","lng":"-111.8569210","highlight":"0","published":"1","dist":10.1053491995
+id":"71170","name":"Acupharm Llc","address":"82 S 1100 E Ste 104-B","city":"Salt Lake City","state":"UT","zip":"84102-1686","phone":"(801) 456-4505","lat":"40.7676147","lng":"-111.8595661","highlight":"0","published":"1","dist":10.4182096972
+id":"16499","name":"THE APOTHECARY SHOPPE","address":"82 SOUTH 1100 EAST","city":"SALT LAKE CITY","state":"UT","zip":"84102","phone":"","lat":"40.7676149","lng":"-111.8595886","highlight":"0","published":"1","dist":10.4200733495
+id":"16555","name":"MEDICAL CENTER PHARMACY","address":"1050 E SOUTH TEMPLE","city":"SALT LAKE CITY","state":"UT","zip":"84102","phone":"","lat":"40.7682630","lng":"-111.8610180","highlight":"0","published":"1","dist":10.5268908594
+id":"16498","name":"SOUTHEAST PHARMACY PC","address":"2670 S 2000 E","city":"SALT LAKE CITY","state":"UT","zip":"84109","phone":"","lat":"40.7134084","lng":"-111.8340896","highlight":"0","published":"1","dist":11.2548210485
+id":"16500","name":"JOLLEYS CORNER PHARMACY","address":"1702 S 1100 E","city":"SALT LAKE CITY","state":"UT","zip":"84105","phone":"","lat":"40.7334081","lng":"-111.8596251","highlight":"0","published":"1","dist":11.685165657
+id":"16475","name":"DANS DRUGS #3","address":"3981 S WASATCH BLVD","city":"SALT LAKE CITY","state":"UT","zip":"84124","phone":"","lat":"40.6867320","lng":"-111.7942600","highlight":"0","published":"1","dist":11.7641658022
+id":"16538","name":"MEDICAL PLAZA PHARMACY","address":"508 E S TEMPLE","city":"SALT LAKE CITY","state":"UT","zip":"84102","phone":"","lat":"40.7687120","lng":"-111.8761390","highlight":"0","published":"1","dist":11.7783811932
+id":"16522","name":"DANS DRUG #2","address":"2330 E 3300 S","city":"SALT LAKE CITY","state":"UT","zip":"84109","phone":"","lat":"40.6989090","lng":"-111.8237980","highlight":"0","published":"1","dist":11.8764341317
+id":"16494","name":"BROADWAY PHARMACY","address":"242 E BROADWAY","city":"SALT LAKE CITY","state":"UT","zip":"84111","phone":"","lat":"40.7627695","lng":"-111.8842313","highlight":"0","published":"1","dist":12.5580262179
+id":"71164","name":"Vrx Pharmacy Llc","address":"60 E South Temple Ste 110","city":"Salt Lake City","state":"UT","zip":"84111-1004","phone":"(801) 236-8879","lat":"40.768934","lng":"-111.888946","highlight":"0","published":"1","dist":12.8440524055
+id":"16495","name":"HYLAND PHARMACY","address":"1295 MILLER AVE STE 6","city":"SALT LAKE CITY","state":"UT","zip":"84106","phone":"","lat":"40.7029125","lng":"-111.8534374","highlight":"0","published":"1","dist":13.2427300057
+id":"71184","name":"Genoa Healthcare Of Utah Llc","address":"1020 S Main St Ste 100","city":"Salt Lake City","state":"UT","zip":"84101-3194","phone":"(425) 679-5692","lat":"40.7432766","lng":"-111.8910766","highlight":"0","published":"1","dist":13.6739536704
+id":"71195","name":"Fourth Street Pharmacy","address":"404 S 400 W","city":"Salt Lake City","state":"UT","zip":"84101    ","phone":"(801) 364-0058","lat":"40.7604441","lng":"-111.9027788","highlight":"0","published":"1","dist":14.1410949344
+id":"71160","name":"James L Larsen","address":"1255 E 3900 S","city":"Salt Lake City","state":"UT","zip":"84341    ","phone":"(801) 293-3001","lat":"40.687754","lng":"-111.855078","highlight":"0","published":"1","dist":14.5303995662
+id":"16537","name":"COMMUNITY PHARMACY INC","address":"1220 E 3900 S","city":"SALT LAKE CITY","state":"UT","zip":"84124","phone":"","lat":"40.6870458","lng":"-111.8560603","highlight":"0","published":"1","dist":14.6444668407}],[40.7834328,-111.7376178,null]][[{"id":"7051","name":"ANDREWS PHARMACY","address":"324 WESTON RD","city":"WELLESLEY","state":"MA","zip":"02482","phone":"","lat":"42.3055615","lng":"-71.3129361","highlight":"0","published":"1","dist":2.6212518169
+id":"7069","name":"KEYES DRUG INC","address":"2090 COMMONWEALTH AVE","city":"AUBURNDALE","state":"MA","zip":"02466","phone":"","lat":"42.3479110","lng":"-71.2473258","highlight":"0","published":"1","dist":5.12241643145
+id":"6957","name":"JONES DRUG INC","address":"7 MAIN ST","city":"NATICK","state":"MA","zip":"01760","phone":"","lat":"42.2839989","lng":"-71.3473381","highlight":"0","published":"1","dist":6.10775746721
+id":"7000","name":"BIRDS HILL PHARMACY","address":"401 GREAT PLAIN AVE","city":"NEEDHAM","state":"MA","zip":"02492","phone":"","lat":"42.2760433","lng":"-71.2152503","highlight":"0","published":"1","dist":6.58933883131
+id":"7015","name":"ROGERS PHARMACY INC","address":"923 MAIN ST","city":"WALTHAM","state":"MA","zip":"02451","phone":"","lat":"42.3763061","lng":"-71.2482956","highlight":"0","published":"1","dist":7.92578733713
+id":"7128","name":"JOHNSON COMPOUNDING AND WELLNESS COMPOUNDING","address":"577 MAIN ST","city":"WALTHAM","state":"MA","zip":"02452","phone":"","lat":"42.3767519","lng":"-71.2335487","highlight":"0","published":"1","dist":8.46395928551
+id":"19929","name":"ONCOMED PHARMACEUTICAL SERVICES OF MA, INC.","address":"150 BEAR HILL RD","city":"WALTHAM","state":"MA","zip":"02451","phone":"","lat":"42.3854493","lng":"-71.2646411","highlight":"0","published":"1","dist":8.57086280682
+id":"7083","name":"PELHAM COMMUNITY PHARMACY","address":"196 BEAR HILL ROAD","city":"WALTHAM","state":"MA","zip":"02451","phone":"","lat":"42.3857823","lng":"-71.2649445","highlight":"0","published":"1","dist":8.60343243105
+id":"67584","name":"Village Fertility Pharmacy, Inc.","address":"335 Bear Hill Road","city":"Waltham","state":"MA","zip":"02451    ","phone":"(877) 334-1610","lat":"42.3867864","lng":"-71.2659141","highlight":"0","published":"1","dist":8.70162602353
+id":"67615","name":"Infusion Resource Llc","address":"69 Hickory Dr","city":"Waltham","state":"MA","zip":"02451-1011","phone":"(781) 250-1500","lat":"42.3873675","lng":"-71.2627665","highlight":"0","published":"1","dist":8.80701507296
+id":"7104","name":"AMERICAS COMPOUNDING CENTER","address":"153 CALIFORNIA ST","city":"NEWTON","state":"MA","zip":"02458","phone":"","lat":"42.3645981","lng":"-71.1942759","highlight":"0","published":"1","dist":9.43800145485
+id":"67603","name":"Diversifed Specialty Pharmacy Llc","address":"1451 Concord St","city":"Framingham","state":"MA","zip":"01701    ","phone":"(508) 877-0080","lat":"42.317434","lng":"-71.397018","highlight":"0","published":"1","dist":9.54216808012
+id":"67590","name":"D And M Powers Inc","address":"1864 Centre St","city":"West Roxbury","state":"MA","zip":"02132    ","phone":"(617) 325-0017","lat":"42.2861639","lng":"-71.1548272","highlight":"0","published":"1","dist":10.7319764564
+id":"7058","name":"WEST ROXBURY PHARMACY","address":"1868 CENTRE ST","city":"WEST ROXBURY","state":"MA","zip":"02132","phone":"","lat":"42.2858000","lng":"-71.1549000","highlight":"0","published":"1","dist":10.7360049673
+id":"6985","name":"WARDLE PHARMACY","address":"585 HIGH ST","city":"DEDHAM","state":"MA","zip":"02026","phone":"","lat":"42.2482169","lng":"-71.1734347","highlight":"0","published":"1","dist":11.192503629
+id":"7126","name":"PHARMALIFE BOSTON","address":"367 WASHINGTON ST","city":"BRIGHTON","state":"MA","zip":"02135","phone":"","lat":"42.3491534","lng":"-71.1540942","highlight":"0","published":"1","dist":11.367428952
+id":"6982","name":"SUTHERLAND PHARMACY INC","address":"1690 COMMONWEALTH AVE","city":"BRIGHTON","state":"MA","zip":"02135","phone":"","lat":"42.3414566","lng":"-71.1465759","highlight":"0","published":"1","dist":11.6499853854
+id":"7136","name":"HEALTH FIRST PHARMACY, INC.","address":"1670 COMMONWEALTH AVE","city":"BOSTON","state":"MA","zip":"02135","phone":"","lat":"42.3417055","lng":"-71.1453160","highlight":"0","published":"1","dist":11.757041629
+id":"7077","name":"BOSTON HOME INFUSION","address":"110 STERGIS WAY","city":"DEDHAM","state":"MA","zip":"02026","phone":"","lat":"42.2355000","lng":"-71.1750000","highlight":"0","published":"1","dist":12.0103587537
+id":"6981","name":"MELVIN PHARMACY","address":"1558 COMMONWEALTH AVE","city":"BRIGHTON","state":"MA","zip":"02135","phone":"","lat":"42.3443479","lng":"-71.1422965","highlight":"0","published":"1","dist":12.0847071633}],[42.3093812,-71.2814816,null]][[{"id":"21306","name":"COUNTY PHARMACY INC","address":"580 NOSTRAND AVENUE","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6789226","lng":"-73.9496732","highlight":"0","published":"1","dist":0.0852800140857
+id":"21170","name":"MAGNAM PHARMACY INC","address":"1236 FULTON ST","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6802090","lng":"-73.9510650","highlight":"0","published":"1","dist":0.156576024554
+id":"21342","name":"FIVE STAR PHARMACY","address":"1200 FULTON ST","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6802930","lng":"-73.9525690","highlight":"0","published":"1","dist":0.227683129415
+id":"11245","name":"THRIFTWAY PHARMACY","address":"524 NOSTRAND AVE","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6808544","lng":"-73.9496887","highlight":"0","published":"1","dist":0.239848689846
+id":"20696","name":"COMPASHIONE PHARMACY","address":"621 NOSTRAND AVE","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6757390","lng":"-73.9496710","highlight":"0","published":"1","dist":0.354231776111
+id":"21242","name":"M AND F PHARMACY","address":"712 NOSTRAND AVE","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6741990","lng":"-73.9503540","highlight":"0","published":"1","dist":0.515876365646
+id":"20626","name":"BETTER HEALTH PHARMACY","address":"1147 FULTON ST","city":"BROOKLYN","state":"NY","zip":"11238","phone":"","lat":"40.6813370","lng":"-73.9558770","highlight":"0","published":"1","dist":0.519461765577
+id":"11078","name":"QUICK RX","address":"1413 FULTON STREET","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6802990","lng":"-73.9445140","highlight":"0","published":"1","dist":0.544738988568
+id":"20893","name":"SWAN PHARMACY INC","address":"650 FRANKLIN AVE","city":"BROOKLYN","state":"NY","zip":"11238","phone":"","lat":"40.6761750","lng":"-73.9562490","highlight":"0","published":"1","dist":0.555012230066
+id":"10827","name":"BED STUY PHARMACY INC","address":"1458 FULTON STREET","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6797430","lng":"-73.9425410","highlight":"0","published":"1","dist":0.693556569929
+id":"21053","name":"HELFMAN PHARMACY","address":"410 TOMPKINS AVE","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6830550","lng":"-73.9441900","highlight":"0","published":"1","dist":0.720953912036
+id":"10119","name":"RITE CHOICE PHARMACY","address":"1484 FULTON ST","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6796930","lng":"-73.9416050","highlight":"1","published":"1","dist":0.771016181216
+id":"72527","name":"Phamco Drugs Inc","address":"802 Nostrand Ave","city":"Brooklyn","state":"NY","zip":"11216    ","phone":"(718) 604-2585","lat":"40.671264","lng":"-73.950581","highlight":"0","published":"1","dist":0.841551344813
+id":"69484","name":"Thriftway Pharmacy","address":"720 Classon Ave","city":"Brooklyn","state":"NY","zip":"11238    ","phone":"(718) 397-1800","lat":"40.6754346","lng":"-73.959975","highlight":"0","published":"1","dist":0.870321486541
+id":"10391","name":"RUBIN CHEMISTS","address":"828 NOSTRAND AVE","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6700881","lng":"-73.9505017","highlight":"0","published":"1","dist":0.972379095047
+id":"21060","name":"FULTON DRUGS INC","address":"1548 FULTON ST","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6795479","lng":"-73.9389780","highlight":"0","published":"1","dist":0.989782797815
+id":"20708","name":"S AND T PHARMACIE","address":"391 EASTERN PKY","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6706050","lng":"-73.9553670","highlight":"0","published":"1","dist":0.996619030778
+id":"10297","name":"PARK DRUGS","address":"801 NOSTRAND AVE","city":"BROOKLYN","state":"NY","zip":"11225","phone":"","lat":"40.6692429","lng":"-73.9505399","highlight":"1","published":"1","dist":1.06631120516
+id":"21221","name":"ALBANY PHARMACY INC","address":"178 ALBANY AVE","city":"BROOKLYN","state":"NY","zip":"11213","phone":"","lat":"40.6743850","lng":"-73.9391210","highlight":"0","published":"1","dist":1.09282195181
+id":"20628","name":"MAIMANS PHARMACY","address":"821 FRANKLIN AVE","city":"BROOKLYN","state":"NY","zip":"11225","phone":"","lat":"40.6704451","lng":"-73.9580305","highlight":"0","published":"1","dist":1.11991929239}],[40.6788319,-73.9506774,null]][[{"id":"21329","name":"GARDNERS PHARMACY INC","address":"371 BROADWAY","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7076200","lng":"-73.9548400","highlight":"0","published":"1","dist":0.166367114681
+id":"11117","name":"KEAP DRUGS INC","address":"361 BROADWAY","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7075226","lng":"-73.9552453","highlight":"0","published":"1","dist":0.182161566757
+id":"10841","name":"BOREUM DRUGS CORP","address":"194 UNION AVE","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7061056","lng":"-73.9502949","highlight":"0","published":"1","dist":0.282518482712
+id":"21204","name":"SDF PHARMACY INC","address":"302 BROADWAY","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7081660","lng":"-73.9576470","highlight":"0","published":"1","dist":0.389880487206
+id":"10247","name":"SHIMONS PHARMACY INC","address":"115 LEE AVE","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7045000","lng":"-73.9582590","highlight":"0","published":"1","dist":0.447194331232
+id":"21291","name":"LIEB PHARMACY II INC","address":"147 LEE AVE","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7034449","lng":"-73.9573631","highlight":"0","published":"1","dist":0.459477113544
+id":"20799","name":"S BROS PHARMACY","address":"176 LEE AVE","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7024400","lng":"-73.9566370","highlight":"0","published":"1","dist":0.513097779556
+id":"20802","name":"STUART SLATER PHARMACY","address":"63 LEE AVE","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7059020","lng":"-73.9597880","highlight":"0","published":"1","dist":0.523736589537
+id":"10388","name":"RAFIEH PHARMACY","address":"70 LEE AVE","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7054160","lng":"-73.9600350","highlight":"0","published":"1","dist":0.553044159161
+id":"21203","name":"UNITED PHARMACY","address":"527 GRAND ST","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7112610","lng":"-73.9502340","highlight":"0","published":"1","dist":0.606566337363
+id":"10222","name":"CORNER PHARMACY","address":"166 DIVISION AVE","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7072580","lng":"-73.9609070","highlight":"0","published":"1","dist":0.621143598309
+id":"11049","name":"MIITTMAN'S PHARMACY","address":"167 HAVEMEYER ST","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7111393","lng":"-73.9578085","highlight":"0","published":"1","dist":0.630238271218
+id":"11033","name":"ROSEBLUM PHARMACY","address":"255 SOUTH 2ND ST","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7117770","lng":"-73.9575610","highlight":"0","published":"1","dist":0.679653110943
+id":"10396","name":"UNZER PHARMACY INC","address":"572 BEDFORD AVE","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7042312","lng":"-73.9612472","highlight":"0","published":"1","dist":0.688776086215
+id":"11431","name":"WILLIAMSBURG PHARMACY","address":"244 ROEBLING ST","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7112683","lng":"-73.9596515","highlight":"0","published":"1","dist":0.739117421122
+id":"10897","name":"MEDICINE DEPOT INC","address":"86 MANHATTAN AVE","city":"BROOKLYN","state":"NY","zip":"11206","phone":"","lat":"40.7052020","lng":"-73.9443579","highlight":"0","published":"1","dist":0.792587323764
+id":"69461","name":"Wallabout Pharmacy Inc","address":"711 Bedford Avenue","city":"Brooklyn","state":"NY","zip":"11206    ","phone":"(718) 855-0214","lat":"40.6996378","lng":"-73.9568701","highlight":"0","published":"1","dist":0.805204696926
+id":"11143","name":"V & A PHARMACY INC","address":"72 MANHATTAN AVE","city":"BROOKLYN","state":"NY","zip":"11206","phone":"","lat":"40.7046960","lng":"-73.9442510","highlight":"0","published":"1","dist":0.813067050236
+id":"10772","name":"GST PHARMACY","address":"669 GRAND ST","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7116619","lng":"-73.9457800","highlight":"0","published":"1","dist":0.879003294117
+id":"21269","name":"FARMACIA SELECTA","address":"88 SEIGEL ST","city":"BROOKLYN","state":"NY","zip":"11206","phone":"","lat":"40.7044108","lng":"-73.9432292","highlight":"0","published":"1","dist":0.904344201234}],[40.7064461,-73.9536163,null]][[{"id":"21144","name":"BIOMED DRUGS AND SURGICAL SUPPLY CO INC","address":"50 3RD AVE","city":"NEW YORK","state":"NY","zip":"10003","phone":"","lat":"40.7310280","lng":"-73.9892340","highlight":"0","published":"1","dist":0.205371491901
+id":"72571","name":"Abacus Pharmacy Inc","address":"168 2nd Ave","city":"New York","state":"NY","zip":"10003-5754","phone":"(212) 477-6400","lat":"40.7301055","lng":"-73.986361","highlight":"0","published":"1","dist":0.254691960255
+id":"10284","name":"NYC PHARMACY","address":"206 FIRST AVE","city":"NEW YORK","state":"NY","zip":"10009","phone":"","lat":"40.7302320","lng":"-73.9831330","highlight":"0","published":"1","dist":0.424775173173
+id":"10921","name":"ESQUIRE PHARMACY","address":"277 1ST AVE","city":"NEW YORK","state":"NY","zip":"10003","phone":"","lat":"40.7326369","lng":"-73.9820050","highlight":"0","published":"1","dist":0.457456232359
+id":"10107","name":"UNIVERSITY CHEMISTS","address":"74 UNIVERSITY PL","city":"NEW YORK","state":"NY","zip":"10003","phone":"","lat":"40.7333290","lng":"-73.9936800","highlight":"0","published":"1","dist":0.541630428372
+id":"21106","name":"BLOCK DRUG STORES","address":"101 SECOND AVE","city":"NEW YORK","state":"NY","zip":"10003","phone":"","lat":"40.7274370","lng":"-73.9889350","highlight":"0","published":"1","dist":0.550760649639
+id":"10131","name":"WHITNEY CHEMIST","address":"50 UNIVERSITY PL","city":"NEW YORK","state":"NY","zip":"10003","phone":"","lat":"40.7326352","lng":"-73.9939351","highlight":"0","published":"1","dist":0.551396241512
+id":"11266","name":"ELLIOTT PHARMACY","address":"250 3RD AVE","city":"NEW YORK","state":"NY","zip":"10010","phone":"","lat":"40.7373420","lng":"-73.9845840","highlight":"0","published":"1","dist":0.613891799524
+id":"10301","name":"METRO DRUGS","address":"7 W 14TH ST","city":"NEW YORK","state":"NY","zip":"10011","phone":"","lat":"40.7364266","lng":"-73.9945754","highlight":"0","published":"1","dist":0.761425420969
+id":"10190","name":"PROHEALTH PHARMACY","address":"385 SECOND AVE","city":"NEW YORK","state":"NY","zip":"10010","phone":"","lat":"40.7374207","lng":"-73.9812652","highlight":"0","published":"1","dist":0.773449929149
+id":"11454","name":"RITE WAY DRUGS AND SURGICAL","address":"371 1ST AVE","city":"NEW YORK","state":"NY","zip":"10010","phone":"","lat":"40.7360203","lng":"-73.9791639","highlight":"0","published":"1","dist":0.811316183796
+id":"21027","name":"EQUAL CARE PHARMACY INC","address":"753 EAST 5TH STREET STORE A","city":"NEW YORK","state":"NY","zip":"10009","phone":"","lat":"40.7275043","lng":"-73.9800645","highlight":"0","published":"1","dist":0.813652672656
+id":"20927","name":"HALPERN PHCY","address":"333 E 23RD ST","city":"NEW YORK","state":"NY","zip":"10010","phone":"","lat":"40.7375752","lng":"-73.9801080","highlight":"0","published":"1","dist":0.853660690851
+id":"10296","name":"MEDILANE DRUGS","address":"227 AVE B","city":"NEW YORK","state":"NY","zip":"10009","phone":"","lat":"40.7291450","lng":"-73.9780000","highlight":"0","published":"1","dist":0.865006816084
+id":"72447","name":"Brentwood Pharmacy","address":"48 W 8th St","city":"New York","state":"NY","zip":"10011-9013","phone":"(212) 460-5838","lat":"40.733186","lng":"-73.9986779","highlight":"0","published":"1","dist":0.955028460014
+id":"69359","name":"Uma Pharmacy Corp","address":"446 6th Ave","city":"New York","state":"NY","zip":"10011-8497","phone":"(212) 477-0762","lat":"40.7349336","lng":"-73.9983277","highlight":"0","published":"1","dist":0.966933502032
+id":"11144","name":"AVALON CHEMISTS","address":"7 2ND AVE","city":"NEW YORK","state":"NY","zip":"10003","phone":"","lat":"40.7240480","lng":"-73.9913739","highlight":"0","published":"1","dist":0.971613099629
+id":"69355","name":"East Village Rx Center","address":"41 Ave A","city":"New York","state":"NY","zip":"10009-7268","phone":"(212) 260-4878","lat":"40.7236134","lng":"-73.9853147","highlight":"0","published":"1","dist":0.976832135565
+id":"10607","name":"C O BIGELOW CHEMISTS INC","address":"414 6TH AVE","city":"NEW YORK","state":"NY","zip":"10011","phone":"","lat":"40.7340087","lng":"-73.9992510","highlight":"0","published":"1","dist":1.01657658818
+id":"11231","name":"AVENUE C PHARMACY","address":"178 AVE C","city":"NEW YORK","state":"NY","zip":"10009","phone":"","lat":"40.7264830","lng":"-73.9770601","highlight":"0","published":"1","dist":1.08276502185}],[40.7322535,-73.9874105,null]][[{"id":"11275","name":"BATTERY PARK PHARMACY INC","address":"327 S END AVE","city":"NEW YORK","state":"NY","zip":"10280","phone":"","lat":"40.7105092","lng":"-74.0162301","highlight":"0","published":"1","dist":0.293188236768
+id":"10875","name":"DOWNTOWN PHARMACY","address":"19 BEEKMAN STREET","city":"NEW YORK","state":"NY","zip":"10038","phone":"","lat":"40.7107610","lng":"-74.0063140","highlight":"0","published":"1","dist":0.595320277646
+id":"69749","name":"Beekman Pharmacy","address":"19 Beekman St","city":"New York","state":"NY","zip":"10038-1522","phone":"(212) 766-1942","lat":"40.7107649","lng":"-74.0061004","highlight":"0","published":"1","dist":0.612800003
+id":"10441","name":"DOWNTOWN PHARMACY","address":"165 WILLIAM ST","city":"NEW YORK","state":"NY","zip":"10038","phone":"","lat":"40.7101611","lng":"-74.0058470","highlight":"0","published":"1","dist":0.619939054561
+id":"10514","name":"EVE AND MICHAEL PHARMACY INC","address":"295 GREENWICH ST","city":"NEW YORK","state":"NY","zip":"10007","phone":"","lat":"40.7157050","lng":"-74.0108870","highlight":"0","published":"1","dist":0.733526149933
+id":"20979","name":"KINGS PHARMACY","address":"5 HUDSON ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7158214","lng":"-74.0092979","highlight":"1","published":"1","dist":0.790523164193
+id":"72509","name":"Prime Essentials Llc","address":"345 Broadway","city":"New York","state":"NY","zip":"10013    ","phone":"(212) 941-7900","lat":"40.7166736","lng":"-74.0042028","highlight":"0","published":"1","dist":1.10986071684
+id":"21225","name":"BROADWAY DOWNTOWN PHARMACY INC","address":"373 BROADWAY","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7177873","lng":"-74.0032782","highlight":"0","published":"1","dist":1.25403150953
+id":"10859","name":"GENERATION PHARMACY LLC","address":"31 33 OLIVER ST","city":"NEW YORK","state":"NY","zip":"10038","phone":"","lat":"40.7120690","lng":"-73.9979200","highlight":"0","published":"1","dist":1.31686098985
+id":"21206","name":"SOHO PHARMACY","address":"3 WALKER ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7199896","lng":"-74.0055525","highlight":"0","published":"1","dist":1.34608189196
+id":"11124","name":"FAMILY CHOICE PHARMACY CORP.","address":"221 CANAL ST 2ND FL","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7199258","lng":"-74.0050400","highlight":"0","published":"1","dist":1.36093000186
+id":"69744","name":"Aid Pharmacy Ny Corp","address":"139 Centre St","city":"New York","state":"NY","zip":"10013    ","phone":"(212) 965-9688","lat":"40.717466","lng":"-74.0008299","highlight":"0","published":"1","dist":1.37534628474
+id":"20804","name":"METRO PHARM INC","address":"92 BAXTER ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7167236","lng":"-73.9998237","highlight":"0","published":"1","dist":1.38992923005
+id":"21304","name":"MEDPHARM DRUG AND TRADING INC","address":"61 CATHERINE ST","city":"NEW YORK","state":"NY","zip":"10038","phone":"","lat":"40.7112817","lng":"-73.9967468","highlight":"0","published":"1","dist":1.39700181557
+id":"21110","name":"FOREVER HEALTH PHARMACY INC","address":"2 EAST BROADWAY","city":"NEW YORK","state":"NY","zip":"10038","phone":"","lat":"40.7136190","lng":"-73.9975230","highlight":"0","published":"1","dist":1.39845217503
+id":"72565","name":"E Care Pharmacy Corp","address":"48 Mott St","city":"New York","state":"NY","zip":"10013-5011","phone":"(212) 962-3388","lat":"40.715358","lng":"-73.998481","highlight":"0","published":"1","dist":1.40418262973
+id":"10380","name":"BUY RITE PHARMACY II","address":"106 LAFAYETTE ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7179779","lng":"-74.0009752","highlight":"0","published":"1","dist":1.40448992231
+id":"21143","name":"ALISONS PHARMACY INC","address":"12 BOWERY","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7144679","lng":"-73.9976220","highlight":"0","published":"1","dist":1.42574336757
+id":"11391","name":"WING ON PHARMACY INC","address":"18 E BROADWAY","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7135012","lng":"-73.9970765","highlight":"0","published":"1","dist":1.42958306008
+id":"20955","name":"BAC AI PHARMACY","address":"216 CANAL ST B","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7170360","lng":"-73.9992750","highlight":"0","published":"1","dist":1.44776331578}],[40.709329,-74.0131196,null]][[{"id":"69421","name":"Fulton Family Pharmacy Inc","address":"98 East Broadway 1st Fl","city":"New York","state":"NY","zip":"10002    ","phone":"(212) 431-6688","lat":"40.7135097","lng":"-73.9859414","highlight":"0","published":"1","dist":0
+id":"10341","name":"MEDILANE PHARMACY CORP","address":"204 CLINTON ST","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7138849","lng":"-73.9870705","highlight":"0","published":"1","dist":0.103907800381
+id":"21336","name":"EAST RX CORPORATION","address":"215 E BROADWAY","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7140490","lng":"-73.9874680","highlight":"0","published":"1","dist":0.141955097476
+id":"10146","name":"MADISON DRUGS INC","address":"36 GOUVERNEUR ST","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7130324","lng":"-73.9838385","highlight":"0","published":"1","dist":0.185016206437
+id":"10721","name":"CENTURY PHARMACY","address":"225 MADISON ST","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7129920","lng":"-73.9886930","highlight":"0","published":"1","dist":0.238953257704
+id":"11250","name":"LEVITT PHARMACY","address":"407 GRAND ST","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7159639","lng":"-73.9868330","highlight":"0","published":"1","dist":0.283051879574
+id":"21049","name":"PEOPLES CHOICE PHARMACY","address":"527 GRAND ST","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7142989","lng":"-73.9816330","highlight":"0","published":"1","dist":0.37357852804
+id":"10356","name":"CENTURY PHARMACY","address":"159 EAST BROADWAY","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7140210","lng":"-73.9903954","highlight":"0","published":"1","dist":0.379678529622
+id":"72390","name":"Grand Health Pharmacy Inc","address":"351 Grand St","city":"New York","state":"NY","zip":"10002-4628","phone":"(212) 228-0068","lat":"40.716664","lng":"-73.989542","highlight":"0","published":"1","dist":0.463800226475
+id":"20908","name":"COLUMBIA DRUGS","address":"55 COLUMBIA ST","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7164638","lng":"-73.9805835","highlight":"0","published":"1","dist":0.558406598849
+id":"10741","name":"MEDIEXPRESS","address":"78 CLINTON ST","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7187410","lng":"-73.9850100","highlight":"0","published":"1","dist":0.586966760769
+id":"69443","name":"Olive Tree Pharmacy","address":"106 Ridge St","city":"New York","state":"NY","zip":"10002    ","phone":"(646) 368-9960","lat":"40.718691","lng":"-73.983131","highlight":"0","published":"1","dist":0.622923773112
+id":"69370","name":"Longevity Pharmacy Llc","address":"96 E Broadway","city":"New York","state":"NY","zip":"10002    ","phone":"(212) 693-8866","lat":"40.713984","lng":"-73.993486","highlight":"0","published":"1","dist":0.638067081182
+id":"72453","name":"Century Grand Inc","address":"302a Grand St","city":"New York","state":"NY","zip":"10002-4465","phone":"(212) 925-3838","lat":"40.717681","lng":"-73.991527","highlight":"0","published":"1","dist":0.660871047389
+id":"11422","name":"1699 FANCY PHARMACY INC","address":"131 ESSEX ST","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7198811","lng":"-73.9875412","highlight":"0","published":"1","dist":0.721183226844
+id":"72560","name":"Metrocare Rx Inc","address":"59 E Broadway","city":"New York","state":"NY","zip":"10002    ","phone":"(212) 608-8889","lat":"40.7134209","lng":"-73.9952689","highlight":"0","published":"1","dist":0.786217741503
+id":"72472","name":"Forever Health Pharmacy I  Llc","address":"244 Grand St.","city":"New York","state":"NY","zip":"10002    ","phone":"(212) 219-3692","lat":"40.718459","lng":"-73.994179","highlight":"0","published":"1","dist":0.88593449185
+id":"21228","name":"BOWERY PHARMACY","address":"95 BOWERY","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7173830","lng":"-73.9952640","highlight":"0","published":"1","dist":0.896018926983
+id":"21325","name":"BEST CARE PHARMACY CORP","address":"28 E BROADWAY","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7137220","lng":"-73.9966710","highlight":"0","published":"1","dist":0.90463585956
+id":"72463","name":"Abc Pharmacy V Corp","address":"26 East Broadway","city":"New York","state":"NY","zip":"10002    ","phone":"(212) 965-8882","lat":"40.713726","lng":"-73.996763","highlight":"0","published":"1","dist":0.912398904079}],[40.7135097,-73.9859414,null]][[{"id":"21027","name":"EQUAL CARE PHARMACY INC","address":"753 EAST 5TH STREET STORE A","city":"NEW YORK","state":"NY","zip":"10009","phone":"","lat":"40.7275043","lng":"-73.9800645","highlight":"0","published":"1","dist":0
+id":"10296","name":"MEDILANE DRUGS","address":"227 AVE B","city":"NEW YORK","state":"NY","zip":"10009","phone":"","lat":"40.7291450","lng":"-73.9780000","highlight":"0","published":"1","dist":0.252085663713
+id":"11231","name":"AVENUE C PHARMACY","address":"178 AVE C","city":"NEW YORK","state":"NY","zip":"10009","phone":"","lat":"40.7264830","lng":"-73.9770601","highlight":"0","published":"1","dist":0.277474065725
+id":"10284","name":"NYC PHARMACY","address":"206 FIRST AVE","city":"NEW YORK","state":"NY","zip":"10009","phone":"","lat":"40.7302320","lng":"-73.9831330","highlight":"0","published":"1","dist":0.398560406949
+id":"20934","name":"EAST DRIVE PHARMACY INC","address":"93 AVE D","city":"NEW YORK","state":"NY","zip":"10009","phone":"","lat":"40.7232870","lng":"-73.9766310","highlight":"0","published":"1","dist":0.551019321923
+id":"10921","name":"ESQUIRE PHARMACY","address":"277 1ST AVE","city":"NEW YORK","state":"NY","zip":"10003","phone":"","lat":"40.7326369","lng":"-73.9820050","highlight":"0","published":"1","dist":0.593680321361
+id":"72571","name":"Abacus Pharmacy Inc","address":"168 2nd Ave","city":"New York","state":"NY","zip":"10003-5754","phone":"(212) 477-6400","lat":"40.7301055","lng":"-73.986361","highlight":"0","published":"1","dist":0.604288125087
+id":"69355","name":"East Village Rx Center","address":"41 Ave A","city":"New York","state":"NY","zip":"10009-7268","phone":"(212) 260-4878","lat":"40.7236134","lng":"-73.9853147","highlight":"0","published":"1","dist":0.618809363015
+id":"11374","name":"LOISAIDA DRUGS AND SURGICALS","address":"273 E 3RD STREET","city":"NEW YORK","state":"NY","zip":"10009","phone":"","lat":"40.7215549","lng":"-73.9802633","highlight":"0","published":"1","dist":0.661755183196
+id":"11292","name":"A P K G PHARMACY INC","address":"360 E 4TH ST","city":"NEW YORK","state":"NY","zip":"10009","phone":"","lat":"40.7214715","lng":"-73.9782823","highlight":"0","published":"1","dist":0.687423301419
+id":"21106","name":"BLOCK DRUG STORES","address":"101 SECOND AVE","city":"NEW YORK","state":"NY","zip":"10003","phone":"","lat":"40.7274370","lng":"-73.9889350","highlight":"0","published":"1","dist":0.747518277245
+id":"21144","name":"BIOMED DRUGS AND SURGICAL SUPPLY CO INC","address":"50 3RD AVE","city":"NEW YORK","state":"NY","zip":"10003","phone":"","lat":"40.7310280","lng":"-73.9892340","highlight":"0","published":"1","dist":0.866324122604
+id":"11454","name":"RITE WAY DRUGS AND SURGICAL","address":"371 1ST AVE","city":"NEW YORK","state":"NY","zip":"10010","phone":"","lat":"40.7360203","lng":"-73.9791639","highlight":"0","published":"1","dist":0.949971747808
+id":"69443","name":"Olive Tree Pharmacy","address":"106 Ridge St","city":"New York","state":"NY","zip":"10002    ","phone":"(646) 368-9960","lat":"40.718691","lng":"-73.983131","highlight":"0","published":"1","dist":1.0134933661
+id":"11144","name":"AVALON CHEMISTS","address":"7 2ND AVE","city":"NEW YORK","state":"NY","zip":"10003","phone":"","lat":"40.7240480","lng":"-73.9913739","highlight":"0","published":"1","dist":1.02759605778
+id":"11422","name":"1699 FANCY PHARMACY INC","address":"131 ESSEX ST","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7198811","lng":"-73.9875412","highlight":"0","published":"1","dist":1.05617874693
+id":"10741","name":"MEDIEXPRESS","address":"78 CLINTON ST","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7187410","lng":"-73.9850100","highlight":"0","published":"1","dist":1.05981842183
+id":"10190","name":"PROHEALTH PHARMACY","address":"385 SECOND AVE","city":"NEW YORK","state":"NY","zip":"10010","phone":"","lat":"40.7374207","lng":"-73.9812652","highlight":"0","published":"1","dist":1.10728492967
+id":"20927","name":"HALPERN PHCY","address":"333 E 23RD ST","city":"NEW YORK","state":"NY","zip":"10010","phone":"","lat":"40.7375752","lng":"-73.9801080","highlight":"0","published":"1","dist":1.11983899012
+id":"11266","name":"ELLIOTT PHARMACY","address":"250 3RD AVE","city":"NEW YORK","state":"NY","zip":"10010","phone":"","lat":"40.7373420","lng":"-73.9845840","highlight":"0","published":"1","dist":1.15829171114}],[40.7275043,-73.9800645,null]][[{"id":"20979","name":"KINGS PHARMACY","address":"5 HUDSON ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7158214","lng":"-74.0092979","highlight":"1","published":"1","dist":0.246578094141
+id":"10514","name":"EVE AND MICHAEL PHARMACY INC","address":"295 GREENWICH ST","city":"NEW YORK","state":"NY","zip":"10007","phone":"","lat":"40.7157050","lng":"-74.0108870","highlight":"0","published":"1","dist":0.293029389057
+id":"10875","name":"DOWNTOWN PHARMACY","address":"19 BEEKMAN STREET","city":"NEW YORK","state":"NY","zip":"10038","phone":"","lat":"40.7107610","lng":"-74.0063140","highlight":"0","published":"1","dist":0.379440365376
+id":"69749","name":"Beekman Pharmacy","address":"19 Beekman St","city":"New York","state":"NY","zip":"10038-1522","phone":"(212) 766-1942","lat":"40.7107649","lng":"-74.0061004","highlight":"0","published":"1","dist":0.388973191491
+id":"10441","name":"DOWNTOWN PHARMACY","address":"165 WILLIAM ST","city":"NEW YORK","state":"NY","zip":"10038","phone":"","lat":"40.7101611","lng":"-74.0058470","highlight":"0","published":"1","dist":0.456867271825
+id":"72509","name":"Prime Essentials Llc","address":"345 Broadway","city":"New York","state":"NY","zip":"10013    ","phone":"(212) 941-7900","lat":"40.7166736","lng":"-74.0042028","highlight":"0","published":"1","dist":0.507547206346
+id":"21225","name":"BROADWAY DOWNTOWN PHARMACY INC","address":"373 BROADWAY","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7177873","lng":"-74.0032782","highlight":"0","published":"1","dist":0.649272130634
+id":"11275","name":"BATTERY PARK PHARMACY INC","address":"327 S END AVE","city":"NEW YORK","state":"NY","zip":"10280","phone":"","lat":"40.7105092","lng":"-74.0162301","highlight":"0","published":"1","dist":0.723420327659
+id":"21206","name":"SOHO PHARMACY","address":"3 WALKER ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7199896","lng":"-74.0055525","highlight":"0","published":"1","dist":0.753700498132
+id":"11124","name":"FAMILY CHOICE PHARMACY CORP.","address":"221 CANAL ST 2ND FL","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7199258","lng":"-74.0050400","highlight":"0","published":"1","dist":0.763533854713
+id":"69744","name":"Aid Pharmacy Ny Corp","address":"139 Centre St","city":"New York","state":"NY","zip":"10013    ","phone":"(212) 965-9688","lat":"40.717466","lng":"-74.0008299","highlight":"0","published":"1","dist":0.788382314573
+id":"10380","name":"BUY RITE PHARMACY II","address":"106 LAFAYETTE ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7179779","lng":"-74.0009752","highlight":"0","published":"1","dist":0.810545097659
+id":"20804","name":"METRO PHARM INC","address":"92 BAXTER ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7167236","lng":"-73.9998237","highlight":"0","published":"1","dist":0.823504530038
+id":"20955","name":"BAC AI PHARMACY","address":"216 CANAL ST B","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7170360","lng":"-73.9992750","highlight":"0","published":"1","dist":0.880083741213
+id":"72565","name":"E Care Pharmacy Corp","address":"48 Mott St","city":"New York","state":"NY","zip":"10013-5011","phone":"(212) 962-3388","lat":"40.715358","lng":"-73.998481","highlight":"0","published":"1","dist":0.883040519934
+id":"20981","name":"NEW YORK PHARMACY INC","address":"131 WALKER ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7172940","lng":"-73.9993855","highlight":"0","published":"1","dist":0.88444908618
+id":"21089","name":"CANAL STREET PHARMACY INC","address":"210 212 CANAL ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7168940","lng":"-73.9989930","highlight":"0","published":"1","dist":0.895141501674
+id":"20954","name":"CANALBERRY PHARMACY","address":"84 MULBERRY ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7164820","lng":"-73.9986660","highlight":"0","published":"1","dist":0.903454814989
+id":"10859","name":"GENERATION PHARMACY LLC","address":"31 33 OLIVER ST","city":"NEW YORK","state":"NY","zip":"10038","phone":"","lat":"40.7120690","lng":"-73.9979200","highlight":"0","published":"1","dist":0.92645238105
+id":"11112","name":"EZ CARE PHARMACY LLC","address":"127A LAFAYETTE ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7189026","lng":"-74.0000716","highlight":"0","published":"1","dist":0.933630916409}],[40.7136487,-74.0087126,null]]<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+[[{"id":"67220","name":"Berginer Drug Store Inc","address":"102 W Main St Ste A","city":"Warsaw","state":"KY","zip":"41095-0990","phone":"(859) 567-4601","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"67221","name":"Family Health Clinic Inc","address":"234 Medical Circle","city":"Morehead","state":"KY","zip":"40351-1016","phone":"(606) 784-6696","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"67256","name":"Health Help Incorporated","address":"1010 Main Street South","city":"Mckee","state":"KY","zip":"40447    ","phone":"(606) 287-7104","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"67151","name":"Seventh St Pharmacy Inc","address":"511 N Main St Ste B","city":"Erie","state":"KS","zip":"66733-1017","phone":"(620) 244-3333","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"67150","name":"Cooper Drug Inc","address":"509 State St","city":"Augusta","state":"KS","zip":"67010-1187","phone":"(316) 775-2289","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"67134","name":"Rashid Pharmacy P L C","address":"2402 Avenue L","city":"Fort Madison","state":"IA","zip":"52627    ","phone":"(319) 376-2358","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"67135","name":"Kedo Llc","address":"4105 Westcor Ct Ste 1","city":"Coralville","state":"IA","zip":"52241-2874","phone":"(319) 545-5100","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"67257","name":"Central City Clinic Pharmacy Inc","address":"3959 Us Highway 431 S","city":"Beechmont","state":"KY","zip":"42323    ","phone":"(270) 476-3600","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"67273","name":"Parker Professional Pharmacy Incorporation","address":"8857 Meta Highway","city":"Pikeville","state":"KY","zip":"41501    ","phone":"(606) 631-9999","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"67344","name":"Save Rite Drugs Radcliff","address":"990 S Dixie Blvd Ste 6","city":"Radcliff","state":"KY","zip":"40160-1296","phone":"(270) 351-3784","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"67416","name":"Reagans Rx Compounding Pharmacy And Home Care","address":"1118 Homer Rd Ste G","city":"Minden","state":"LA","zip":"71055-3028","phone":"(318) 382-7948","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"67343","name":"Hometown Pharmacy Of Whitley City Inc","address":"1182 N Highway 27","city":"Whitley City","state":"KY","zip":"42653-4084","phone":"(606) 376-3300","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"67342","name":"Stephanies Down Home Pharmacy Inc","address":"1220 Master St Ste 5","city":"Corbin","state":"KY","zip":"40701-2517","phone":"(606) 261-7877","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"67275","name":"Rite Value Pharmacy Inc","address":"2673 Highway 644 Ste 1","city":"Louisa","state":"KY","zip":"41230    ","phone":"(606) 638-9627","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"67276","name":"Compound Care Pharmacy Inc","address":"12121 Shelbyville Rd Ste 107","city":"Louisville","state":"KY","zip":"40243-1094","phone":"(502) 244-6500","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"67130","name":"Wester Drug Ltc Llc","address":"319 E 2nd St Ste 104","city":"Muscatine","state":"IA","zip":"52761-4151","phone":"(563) 262-2804","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"67076","name":"Pharmacy Associates Of Carroll Inc","address":"425 Hwy 30 West","city":"Carroll","state":"IA","zip":"51401    ","phone":"(712) 792-2671","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"66672","name":"L Krenk Inc","address":"53 Puunene Ave","city":"Kahului","state":"HI","zip":"96732-2110","phone":"(808) 877-6222","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"66736","name":"Vics Family Pharmacy Inc","address":"118 S Midland Blvd","city":"Nampa","state":"ID","zip":"83686-2601","phone":"(208) 442-1000","lat":"","lng":"","highlight":"0","published":"1","dist":0
+id":"66638","name":"Harbin Clinic Llc","address":"255 West 5th Street","city":"Rome","state":"GA","zip":"30165    ","phone":"(706) 528-9096","lat":"","lng":"","highlight":"0","published":"1","dist":0}],[null,null,null]]
