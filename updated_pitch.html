@@ -1,0 +1,54 @@
+<html>
+<head>
+	<style type="text/css">
+	body{
+		width: 70%;
+		margin: auto;
+		margin-top: 40px;
+		line-height: 2em;
+		font-family: Georgia;
+		font-size: 14px;
+	}
+
+	</style>
+</head>
+<body>
+
+<h1>Updated pitch (spitball?)</h1>
+
+<p>I’ve been digging. And digging. And digging.  And there are <a href="http://cdn.assets-phoenix.net/content/dam/altcloud/doc/about_uopx/academic-annual-report-2010.pdf">a</a> <a href="http://www.devry.edu/d/us-combined-graduates-employment-statistics.pdf">lot</a> <a href="http://www.devry.edu/d/DeVry-HEOA-Disclosures.pdf">of</a> PDFs, and very little <a href="http://programinfo.itt-tech.edu/ind/asacctg/">structured</a> data. yarg.  I’ve actually gotten on the phone with several of the colleges and have received annual reports (200+ pages of PDF), but no one has access to (or perhaps want to grant me access to) structured data. </p>
+
+
+<p>I think I want to start with the smaller question, which is: Are you more likely to go bankrupt with a degree/certificate from a for-profit college than with no college degree at all?  It seems to be a bit simpler, an achievable Minimum Viable Product. 
+So here is what I need to know in order to do this:</p> 
+<p>-First, I need to acquire information about national bankruptcy filings.  <a href="http://www.uscourts.gov/Statistics/BankruptcyStatistics/12-month-period-ending-march.aspx">This</a> link should help with that. (Also need to do some research on the different kinds of bankruptcy)</p>
+<p>-Then it will need to be broken down into several parts: bankruptcy by education level is the first one. This will give me a basic idea if someone with 2 years or fewer of college education is more or less likely to go bankrupt than someone without any college. My guess is that the less education you have, the more likely you are to go bankrupt.  But this doesn’t say anything about for-profit colleges.</p>
+<p>-Then, I need to get more specific: Can I get my hands on data about students who went to a for-profit college vs just a 2-year college? (I also want to see if I can get my hands on information about the number of for-profit college students who default on their debt.  Working on a source for that. ) If I can, that should give me a pretty clear idea about whether or not my hypothesis—that you are more likely to go bankrupt with a degree from a for-profit college than with no college at all—is correct or not. </p> 
+
+<p>BUT! Just comparing data between For-profit college goers, and EVERYONE who didn’t go to college at all might not give me the clearest snapshot of the comparison.  Though I would venture to say that many people who don’t go to college (either by choice or by circumstances) fall into the same demographics as those who do, I think I’d want to make some adjustments.  Colleges are required to publish their demographic data, so that shouldn’t be too hard to get. I’d then compare it to a similar subset of people who did not go to college to get a finer tune on the results. </p>
+
+<p>I’d like to see the actual output be an interactive chart to accompany a written article. The initial static image would be the overall total: You are X percent more likely to go/not go bankrupt with a degree from a for-profit college.  Then you could select demographics and see the results: if I’m a black woman, where do I fall on the scale? What about a latino male who is a veteran? I could finally sink you teeth into D3!</p>
+<br>
+
+<p>I’ve also been thinking about another related question, that is also smaller and more manageable: Just how long will it take you to pay off your for-profit college degree?  This would be a fun problem to tackle because I could use some economic and personal finance models I’ve been working on for a different project.  I already have a sense of the numbers, and trust me, they’re egregious. </p>
+
+<p>In order to do this, I think this would be my game plan:</p>
+
+<p>-Choose 5 or 6 popular programs that are common at FPCs around the country—medical assisting, dental assisting, criminal justice, network and information technology, business administration or management, and, depending on a few things, cosmetology—and gather information from the top 11 FPCs and a handful of regional/smaller schools about each program.  They’re required to publish the <a href="http://programinfo.itt-tech.edu/ind/asacctg/">total cost</a> of tuition + fees, so that shouldn’t be too hard. Average out the cost of tuition for each program I selected.</p>
+
+<p>-Get <a href="http://www.bls.gov/oes/current/oes319092.htm">median salary</a> information for one or two possible career tracks for each area of study from BLS.gov, and average them out to either an hourly wage or a yearly salary (salary would be easier). </p>
+
+<p>-Make a couple models for student aid scenarios: One where a student receives the maximum federal aid (Pell grant of $5,600 per year, plus all Stafford loans); One where a student receives $2500 in Pell and full loans; One with no Pell and full stafford loans.  All the rest that is not covered by the federal aid will be considered “private financing.” </p>
+
+<p>-Run those scenarios through a monthly budget figuring the average salary for each career trajectory. I have a pretty good, complex budgeting model designed to strategize paying down student loans. (I co-teach a personal finance workshop for alumnae from my college—95% of it is quelling a tide of panic about paying off student loans). </p>
+
+<p>-From there, visualize the information.  Say you got a Medical Assistant degree for a net total of $12500, at a 6.3% apr. If you’re making x dollars per year, and have a monthly budget of y, how many years is it going to take you to pay off that loan?</p>
+
+
+</body>
+</html>
+
+
+
+
+
