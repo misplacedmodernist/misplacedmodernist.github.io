@@ -1,0 +1,334 @@
+<style type="text/css">
+
+body {
+  width:960px;
+  margin:40px auto;
+  font-family: georgia, sans;
+  margin-bottom: 20px;
+
+}
+
+h1 {
+  border-bottom:1px solid #dedede;
+  margin-bottom:20px;
+  padding-bottom:20px;
+}
+
+/* CSS for the individual boxes */
+.drug-box {
+	text-align: center;
+	background-color: green;
+	float: left;
+	width: 100px;
+	margin: 0px 10px 10px 0px;
+	text-align: center;
+	cursor: pointer;
+	top: 0px;
+	position: relative;
+	height: 100px;
+	overflow: hidden;
+	border-radius: 5px;
+	padding-left: 0px;
+	line-height: 100px;
+}
+
+
+/* CSS for the overall grid */
+
+.drug-grid {
+	float: left;
+	width: 620px;
+	z-index: 1000;
+	position: relative;
+	}
+
+
+/*CSS for overlay*/
+.selected {
+	background: #065D75;
+}
+
+.overlay {
+	display: none;
+	background-color: black;
+	opacity: 0.6;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.drugname {
+	display: none;
+	position: absolute;
+	width: 100%;
+	text-align: center;
+}
+
+
+/* CSS for box with dosage total*/
+.display-box {
+	width: 130px;
+	height: 70px;
+	float: right;
+	text-align: center;
+} 
+
+/*CSS for Tylenol-o-meter*/
+.tylenol-o-meter {
+	float: left;
+	display: block;
+	height: 430px;
+	width: 15px;
+	position: relative;
+	border-radius: 5px;
+	border: 1px solid #dedede;
+	overflow: hidden;
+	padding-left: 0px;
+}
+
+#total-dosage {
+	float:left;
+	font-weight: bold;
+	font-size: 30px;
+
+}
+</style>
+
+<h1>How Much Acetaminophen Are You Taking?</h1>
+<h3>a knockoff of an <a href="http://projects.propublica.org/drug-labels/">app</a> developed by ProPublica</h3>
+
+<p>Many common over-the-counter drugs contain acetaminophen. Taking more than one at the same time increases your chance of "double-dipping" -- accidentally overdosing. Use this tool to find out which of the drugs in your medicine cabinet contains acetaminophen -- and how much. This is not meant to be medical advice. Toxic levels vary by individual. Call your doctor if you think you've overdosed, even if you don't show medical symptoms.</p>
+
+<h2>Combining the daily maximum dose of common drugs can lead to an overdose.</h2>
+
+
+<!--overall grid-->
+
+<div class="drug-grid" id="big-box">
+
+<!--individual drug box images-->
+
+<div class="drug-box" id="excedrin" data-dosage="2000">
+<img src="excedrin.png"></img>
+<span class='overlay'></span>
+<p class='drugname'>Excedrin</p>
+</div>
+
+<div class="drug-box" id="nyquil" data-dosage="2600">
+<img src="nyquil.png"></img>
+<span class='overlay'></span>
+<p class='drugname'>Nyquil</p>
+</div>
+
+
+<div class="drug-box" id="Robitussin" data-dosage="3840">
+<img src="robitussin.png"></img>
+<span class='overlay'></span>
+<p class='drugname'>Robitussin</p>
+</div>
+
+<div class="drug-box" id="Sudafed" data-dosage="3250">
+<img src="sudafed.png"></img>
+<span class='overlay'></span>
+<p class='drugname'>Sudafed</p>
+</div>
+
+
+<div class="drug-box" id="alka-seltzer" data-dosage="2000">
+<img src="alka-seltzer.png"></img>
+<p class='drugname'>Alka-Seltzer</p>
+<span class='overlay'></span>
+</div>
+
+
+<div class="drug-box" id="theraflu" data-dosage="3900">
+<img src="theraflu.png"></img>
+<span class='overlay'></span>
+<p class='drugname'>Theraflu</p>
+</div>
+
+
+<div class="drug-box" id="tylenol-x" data-dosage="3000">
+<img src="tylenol-x.png"></img>
+<span class='overlay'></span>
+<p class='drugname'>Extra Strength Tylenol</p>
+</div>
+
+
+<div class="drug-box" id="zycam" data-dosage="3900">
+<img src="zycam.png"></img>
+<span class='overlay'></span>
+<p class='drugname'>Zycam</p>
+</div>
+
+
+<div class="drug-box" id="anacin" data-dosage="4000">
+<img src="anacin.png"></img>
+<span class='overlay'></span>
+<p class='drugname'>Anacin</p>
+</div>
+
+
+<div class="drug-box" id="tyelnol-ch" data-dosage="800">
+<img src="tylenol-c.png"></img>
+<p class='drugname'>Children's Tylenol</p>
+<span class='overlay'></span>
+</div>
+
+
+<div class="drug-box" id="dimetapp" data-dosage="800">
+<img src="dimetapp.png"></img>
+<p class='drugname'>Dimetapp</p>
+<span class='overlay'></span>
+</div>
+
+
+<div class="drug-box" id="panadol" data-dosage="800">
+<img src="panadol.png"></img>
+<p class='drugname'>Panadol</p>
+<span class='overlay'></span>
+</div>
+
+
+<div class="drug-box" id="dayquill" data-dosage="1300">
+<img src="dayquil.png"></img> 
+<p class='drugname'>Dayquil</p>
+<span class='overlay'></span> 
+</div>
+
+
+<div class="drug-box" id="coricidin" data-dosage="3900">
+<img src="coricidin.png"></img>
+<p class='drugname'>Coricidin</p>
+<span class='overlay'></span>
+</div>
+
+
+<div class="drug-box" id="tyelonl-cod" data-dosage="4000">
+<img src="tylenol-co.png"></img>
+<p class='drugname'>Tylenol with Codene</p>
+<span class='overlay'></span>
+</div>
+
+
+<div class="drug-box" id="vicodin" data-dosage="3960">
+<img src="vicodin.png"></img>
+<p class='drugname'>Vicodin</p>
+<span class='overlay'></span>
+</div>
+
+<div class="drug-box" id="percocet" data-dosage="3900">
+<img src="percocet.png"></img>
+<p class='drugname'>Percocet</p>
+<span class='overlay'></span>
+</div>
+
+<div class="drug-box" id="hydrocodone" data-dosage="3900">
+<img src="hydrocodone.png"></img>
+<p class='drugname'>Hydrocodone</p>
+<span class='overlay'></span>
+</div>
+
+<div class="drug-box" id="oxycodone" data-dosage="3900">
+<img src="oxycodone.png"></img>
+<p class='drugname'>Oxycodone</p>
+<span class='overlay'></span>
+</div>
+
+<div class="drug-box" id="ultracet" data-dosage="2600">
+<img src="ultracet.png"></img>
+<p class='drugname'>Ultracet</p>
+<span class='overlay'></span>
+</div>
+</div>
+
+<!--Tylenol-o-meter and text output
+
+<div class="tylenol-o-meter"><div class="quantity" style="height: 0px;"<.div></div>
+<div id="output"><div class="individ_drug"></div></div>-->
+
+<!--Text with dosage total and overdose alert-->
+
+<div class="display-box"><h3>Total: <span id ="total-dosage">0</span> milligrams</h3><span id="overdose-message"></span></div>
+<div style= "clear: both"></div>
+
+<div style= "border:1px solid #000">this is a footer</div>
+
+
+
+<!--starting JavaScript-->
+
+<script type="text/javascript" src="jquery-1.11.0.min.js">
+</script>
+<script type="text/javascript">
+
+var currentTotal = 0;
+
+
+jQuery( ".drug-box" ).click(function() {
+
+	// console.log($(this).attr("data-dosage"));
+	// console.log($(this).data("dosage"));
+
+	var thisDosage = $(this).data("dosage");
+
+	$(this).toggleClass("selected");
+
+	// test the class.
+	if($(this).hasClass("selected")){
+		currentTotal = currentTotal + thisDosage;
+	}
+	else {
+		currentTotal = currentTotal - thisDosage;
+	}
+
+	if((currentTotal) < 4000){
+		//console.log("you have overdosed");
+		$("#total-dosage").text(currentTotal).css('color', 'black');
+			$("#overdose-message").text(" You're within the FDA's recommended maximum daily limit of acetaminophen.");
+	}
+	
+	if((currentTotal) >= 4000){
+		//console.log("you have overdosed");
+		$("#total-dosage").text(currentTotal).css('color', '#FFCC00');
+			$("#overdose-message").text(" You've exceeded the FDA's recommended maximum daily limit of acetaminophen.");
+
+	}
+	if((currentTotal) >= 8000){
+		//console.log("you have overdosed");
+		$("#total-dosage").text(currentTotal).css('color', '#FF5500');
+		$("#overdose-message").text(" You've exceeded the level at which liver damage can occur if taken for several days, according to McNeil, the maker of Tylenol.");
+	}
+
+	if((currentTotal) >= 15000){
+		//console.log("you have overdosed");
+		$("#total-dosage").text(currentTotal).css('color', '#FF0000');
+		$("#overdose-message").text(" You've exceeded the threshold toxic dose of acetaminophen. A single dose at this level can result in death, according to medical experts and literature.");
+	}
+	else{
+		$("#total-dosage").text(currentTotal);
+	}
+
+	//something to do the overlay?//
+
+	$('.drug-box').toggleClass('.selected');
+
+if ($(this).hasClass('selected')){
+		$(this).children('.overlay').css('display', 'block');
+		$(this).children('.drugname').css('display', 'block');
+	} else {
+		$(this).children('.overlay').css('display', 'none');
+		$(this).children('.drugname').css('display', 'none');
+	}
+	
+	// print the total;
+	console.log("currentTotal is", currentTotal);	
+
+	});
+
+
+
+
+</script>
