@@ -1,0 +1,67 @@
+<!--
+You are free to copy and use this sample in accordance with the terms of the
+Apache license (http://www.apache.org/licenses/LICENSE-2.0.html)
+-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>
+      Google Visualization API Sample
+    </title>
+    <script type="text/javascript" src="//www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load('visualization', '1', {packages: ['table']});
+    </script>
+    <script type="text/javascript">
+    function drawVisualization() {
+      // Create and populate the data table.
+      var data = google.visualization.arrayToDataTable([
+        ['School', 'Location', 'Fiscal Year Ending Date', '% Cash From Title IV Funds', '2-Year Default Rate (2010)'],
+     
+      ["Lawton Career Institute","Oak Park, MI","12/31/2011","98.17%","22.80%"],
+      ["Larry''s Barber College","Chicago, IL","12/31/2011","94.94%","NA"],
+      ["Missouri College","Brentwood, MO","12/31/2011","94.53%","19.00%"],
+      ["Sanford-Brown College","McLean, VA","12/31/2011","94.52%","31.60%"],
+      ["Prism Career Institute","Upper Darby, PA","12/31/2011","94.27%","28.00%"],
+      ["Baton Rouge College","Baton Rouge, LA","12/31/2011","94.17%","NA"],
+      ["Sanford-Brown College","Fenton, MO","12/31/2011","94.10%","23.50%"],
+      ["Sanford-Brown College","Boston, MA","12/31/2011","93.60%","25.90%"],
+      ["Blue Cliff College","Shreveport, LA","12/31/2011","93.43%","NA"],
+      ["Blue Cliff College","Metairie, LA","12/31/2011","93.15%","14.00%"],
+      ["South Texas Vocational Technical Institute","McAllen, TX","12/31/2011","92.82%","28.10%"],
+      ["Sanford-Brown College","Farmington, CT","12/31/2011","92.77%","21.70%"],
+      ["Blue Cliff College","Lafayette, LA","12/31/2011","92.58%","NA"],
+      ["Salon 496 Barber Academy","Greenville, SC","12/31/2011","92.31%","NA"],
+      ["Laurus Technical Institute","Decatur, GA","06/30/2012","92.24%","21.30%"],
+      ["South Texas Vocational Technical Institute","Weslaco, TX","12/31/2011","92.22%","NA"],
+      ["Modern Beauty Academy - Oxnard","Oxnard, CA","12/31/2011","92.06%","9.00%"],
+      ["ATI Technical Training Center","Dallas, TX","12/31/2011","92.05%","NA"],
+      ["ATI Career Training Center","Fort Lauderdale, FL","12/31/2011","91.89%","NA"],
+      ["Blue Cliff College","Gulfport, MS","12/31/2011","91.88%","NA"],
+      ["Harris School of Business","Voorhees, NJ","12/31/2011","91.88%","15.40%"],
+      ["Omega Institute","Pennsauken, NJ","06/30/2012","91.44%","37.10%"],
+      ["Galen College of California","Fresno, CA","03/31/2012","91.29%","13.00%"],
+      ["Sanford-Brown College","Atlanta, GA","12/31/2011","90.88%","22.60%"],
+      ["Beckfield College","Florence, KY","12/31/2011","90.71%","22.40%"],
+      ["Cosmetology Career Institute","Greenville, TX","12/31/2011","90.45%","12.30%"],
+      ["Montebello Beauty College","Montebello, CA","12/31/2011","90.43%","26.20%"],
+      ["Traxler''s School of Hair","Jackson, MS","12/31/2011","90.42%","NA"]
+    
+      ]);
+    
+      // Create and draw the visualization.
+      visualization = new google.visualization.Table(document.getElementById('table'));
+      visualization.draw(data, null);
+    }
+    
+
+    google.setOnLoadCallback(drawVisualization);
+    </script>
+  </head>
+  <body style="font-family: Arial;border: 0 none;">
+    <div id="table"></div>
+  </body>
+</html>
+​
