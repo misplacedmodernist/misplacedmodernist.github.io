@@ -1,0 +1,382 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+<!--
+* Theme: Elegant Box, v1.1 (elegantbox.tumblr.com)
+* Author: Kyle Dreger (kyledreger.tumblr.com)
+* Twitter: @kyledreger
+
+Simple, elegant and beautiful. No unnecessary settings, just clean and honest design.  
+-->
+
+<title>{Title}{block:PostSummary} / {PostSummary}{/block:PostSummary}{block:SearchPage} /mdash; {lang:Search results for SearchQuery}{/block:SearchPage}</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta content="en-us" http-equiv="Content-Language" />
+<link rel="shortcut icon" href="{Favicon}">
+{block:Description}<meta name="description" content="{MetaDescription}" />{/block:Description}
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+
+<meta name="text:Google Analytics ID" content="" />
+<meta name="text:Author Name" content="" />
+<meta name="color:Header" content="#111111"/>
+<meta name="color:Body" content="#111111"/>
+<meta name="color:Accent" content="#111111"/>
+
+<style type="text/css">
+@import url("http://static.tumblr.com/iwkymaw/cTIlzwwnd/reset.css");
+
+body {
+color: #444;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+line-height: 1.6em;   
+font-size: 13px;
+padding: 0;
+margin: 100px 0px;
+}
+h1,
+h2,
+h3,
+p { padding: 8px 0px;}
+h1{ 
+font-size: 2.2em; 
+font-weight: bold;
+letter-spacing: 1px;
+}
+h2{ 
+font-size: 1.9em; 
+letter-spacing: -1px;
+line-height: 1.5em;
+}
+h3{ font-size: 1.2em; font-weight: bold; }
+a {
+color: {color:Body};
+text-decoration: none;
+-webkit-transition: all 0.1s ease;
+-moz-transition: all 0.1s ease;
+-o-transition: all 0.1s ease;
+transition: all  0.1s ease;
+font-weight: bold;
+}
+a:hover { 
+color: #ddd;
+}
+
+/* 
+    Box 
+*/
+
+.box {
+width: 850px;
+margin: -1px auto;
+background:#fff;
+padding: 20px 30px;
+border: 1px solid #ddd;
+}
+.box:first-child{
+border: 0;
+margin-bottom: 50px;
+}
+.box:last-child{
+margin-bottom: 100px;
+border-bottom: 1px solid #ddd;
+}
+
+.box img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+max-width: 95%;
+height: auto;
+}
+
+.photoset{
+display: block !important;
+margin-left: auto !important;
+margin-right: auto !important;
+max-width: 95% !important;
+padding-top: 15px !important;
+}
+/*  
+    Header
+*/
+
+.header {
+padding: 20px 0px;
+overflow: auto;
+text-transform: uppercase;
+color: #111;
+}
+.header .navigation{
+font-size: .45em;
+}
+.header h3 {
+padding: 0;
+margin: 15px 0px 0px 0px;
+font-weight: 200;
+letter-spacing: 0px;
+text-transform: none;
+}
+.header .left{
+float: left;
+}
+.header .right{
+float: right;
+}
+.header ul, .header li{
+    list-style: none;
+    display: inline;
+    padding: 0;
+    margin: 0;
+}
+.header a {
+color: {color:Header};
+font-weight: 200;
+}
+.header a:hover {
+color: #ddd;
+}
+
+.footer{
+text-align: center;
+margin: 0 auto;
+padding-top: 35px;
+font-size: 2em;
+}
+
+/*
+    Post
+    Styles
+*/
+
+h2 a{
+color: {color:Header};
+}
+h2 a:hover{
+color: #ddd;
+}
+em {
+font-weight: italic;
+}
+.media-break{
+    display: none;
+}
+.post{ 
+display: block; 
+}
+span.jesus {
+color: #b31902;
+}
+.date-archive{
+font-family: monospace;
+}
+blockquote {
+margin: 10px 20px;
+padding-left: 15px;
+border-left: solid 6px {color:Accent};
+line-height: 1.5em;
+}
+pre {
+font: normal normal 87.5%/1.71428571em monospace,sans-serif;
+margin: 1.71428571em;
+}
+code {
+font-family: 'DejaVu Sans Mono', 'Courier New', monospace;
+}
+ol,
+ul {
+list-style-position: outside;
+padding: 10px 0px;
+}
+.post-list { width: 100% }
+.post-list-date { float: right }
+ul {
+margin-left: 20px;
+list-style: disc;
+}
+
+/*
+    Media queries to 
+    make content responsive
+    to different screen sizes.
+
+    Thanks @beep
+*/
+
+@media screen and (max-width: 730px) {
+body {
+margin: 50px 0px;
+}
+.box {
+margin: 0 auto;
+padding: 10px;
+width: 85%;
+border: none;
+border-bottom: 1px solid #ddd;
+}
+.box .header{
+text-align: left;
+padding: 0;
+}
+.header .left{
+    float: none;
+}
+.header .right{
+float: none;
+padding-top: 10px;
+display: block;
+}
+.box:last-child{
+margin-bottom: 0px;
+border-bottom: 1px solid #ddd;
+}
+.header h1{
+font-size: 2.5em; 
+}
+.media-break{
+display: block;
+}
+.gone{
+display: none;
+}
+}
+
+{CustomCSS}
+</style>
+
+{block:IfGoogleAnalyticsID}
+<!-- 
+    start google analytics 
+-->
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', '{text:Google Analytics ID}']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<!-- 
+    end google analytics 
+-->
+{/block:IfGoogleAnalyticsID}
+
+</head>             
+
+<body>
+
+<!-- header -->
+<div class="box">
+<div class="header">
+<h1><a class="left" href="/" title="Home">{Title}</a>
+<span class="right navigation"><p class="media-break"></p><br>{block:IfAuthorName}By {text:Author Name} <span class="gone"></span>{/block:IfAuthorName}<p class="media-break"></p>
+<ul>
+<br>
+<br>
+{block:HasPages}{block:Pages}<li><a href="{URL}">{Label}</a> &middot; </li>{/block:Pages}{/block:HasPages}
+<li><a href="https://twitter.com/misplacedmodern">twitter</a> </li>
+
+</h1>
+</div>
+</div>
+<!-- / header -->
+
+{block:Posts}
+<div class="box">
+
+<!-- text -->
+{block:Text}
+{block:Title}<h2><a href="{Permalink}">{Title}</a></h2>{/block:Title}
+<span class="post">
+{Body}
+</span>
+{/block:Text}
+
+<!-- photo -->
+{block:Photo}
+<p>{LinkOpenTag}<img src="{PhotoURL-500}" alt="{PhotoAlt}"/>{LinkCloseTag}</p>
+{block:Caption}
+<span class="caption">{Caption}</span>
+{/block:Caption}
+{/block:Photo}
+
+<!-- photo set -->
+{block:Photos}
+<span class="photo-set">{LinkOpenTag}<img src="{Photoset-500}" alt="{PhotoAlt}"/>{LinkCloseTag}</span>
+{block:Caption}
+<p class="caption">{Caption}</p>
+{/block:Caption}
+{/block:Photos}
+
+<!-- quote -->
+{block:Quote}
+<h3><blockquote>{Quote}</blockquote></h3>
+{block:Source}
+<p class="source">- {Source}</p>
+{/block:Source}
+{/block:Quote}
+
+<!-- linkage -->
+{block:Link}
+<h2><a href="{URL}" class="link" {Target}>&#8734; {Name}</a></h2>
+{block:Description}
+<span class="description">{Description}</span>
+{/block:Description}
+</li>
+{/block:Link}
+
+<!-- sms, lol, brb -->
+{block:Chat}
+{block:Title}
+<h2><a href="{Permalink}">{Title}</a></h2>
+{/block:Title}
+
+<ul class="chat">
+{block:Lines}
+<li class="{Alt} user_{UserNumber}">
+{block:Label}<span class="label">{Label}</span>{/block:Label}
+{Line}</li>
+{/block:Lines}
+</ul>
+{/block:Chat}
+
+<!-- video - pop the popcorn -->
+{block:Video}
+{Video-500}
+{block:Caption}
+<p class="caption">{Caption}</p>
+{/block:Caption}
+{/block:Video}
+
+<!-- audio - turn on that sweet, smooth tune -->
+{block:Audio}
+{AudioPlayerBlack}
+{block:Caption}
+<p class="caption">{Caption}</p>
+{/block:Caption}
+{/block:Audio}
+
+<!-- post info - date & permalink -->
+<p class="post-info"><a href="{Permalink}">{block:Date}{ShortMonth} {DayOfMonthWithZero}, {Year}</a>{/block:Date}</p>
+</div> <!-- / box -->
+{/block:Posts}
+
+<!-- ala footer & pagination -->
+<div class="footer">
+{block:PreviousPage}
+<a href="{PreviousPage}">&larr;</a>
+{/block:PreviousPage}
+
+{block:NextPage}
+<a href="{NextPage}">&rarr;</a>
+{/block:NextPage}
+</div>      
+</body>             
+</html>
